@@ -173,7 +173,8 @@ Your password needs to be between 8 and 10 characters long. Previously this woul
 
 ![Virgin Trains](/screenshots/virgintrains.jpg "Virgin Trains Password Reset")
 
-### [Williams-Sonoma](https://secure.williams-sonoma.com/account/updatepassword.html)
-We put punctuation in the list of unusable characters to make it additionally confusing.
+### [Williams Sonoma](https://secure.williams-sonoma.com/account/updatepassword.html)
 
-![Williams-Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
+At least one letter and one number… but oh my mercy help you if want a bracket or a pipe.
+
+![Williams Sonoma](/screenshots/williams-sonoma.png "Williams-Sonoma")
